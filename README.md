@@ -30,3 +30,12 @@ Clone the repository:
 ```bash
 git clone https://github.com/MkPinky/AI-Question-Paper-Generator.git
 cd AI-Question-Paper-Generator
+
+
+## 🚀 Live Demo
+
+Try the application here:
+
+[Open AI Question Paper Generator](https://ai-question-paper-generator-ihzk6cfqmvbpcp6n3ytyfi.streamlit.app/)
+
+**Deployment:** Streamlit Community Cloud
